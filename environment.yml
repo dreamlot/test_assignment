@@ -1,5 +1,5 @@
-name: assignment15
-channels: 
+name: assignmenttest
+channels:
   - conda-forge
   - defaults
 dependencies:

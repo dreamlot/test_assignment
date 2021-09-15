@@ -9,7 +9,7 @@ Open the [Assignment test Jupyter Notebook](assignmenttest.ipynb) and follow the
 If you would like to check to see if your solution is correct, run the following command at the Terminal command line:
 
 ```bash
->python test.py
+>python test.py -v
 ```
 
 A status  message of `OK` indicates your solution is correct.
